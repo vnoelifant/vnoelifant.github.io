@@ -1,9 +1,9 @@
 # Site settings
-title:              "Veronica Medrano"
+title:              Veronica Medrano
 email:              your-email@domain.com
 description:        "Project Portfolio"
 url:                "http://vnoelifant.github.io" 
-baseurl:            "/vnoelifant.github.io"
+baseurl:            /vnoelifant.github.io
 
 # File structure settings
 image_path:         /public/images
