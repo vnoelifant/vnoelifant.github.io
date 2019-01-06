@@ -1,9 +1,9 @@
 # Site settings
-title:              Portfolio Template
+title:              "Veronica Medrano"
 email:              your-email@domain.com
-description:        "Portfolio template for students in the MSR program at Northwestern University"
-url:                "http://vnoelifant.github.io" #"http://localhost:4000"
-baseurl:            /msr-student-template
+description:        "Project Portfolio"
+url:                "http://vnoelifant.github.io" 
+baseurl:            "/vnoelifant.github.io"
 
 # File structure settings
 image_path:         /public/images
