@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: /public/images/ronnie.jpg
+image: /public/images/RonnieSawyer.jpg
 ---
 
 ## Veronica Medrano

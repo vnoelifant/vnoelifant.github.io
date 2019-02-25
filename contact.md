@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image: /public/images/ronnie.jpg
+image: /public/images/RonnieSawyer.jpg
 ---
 
 ## Contact Me
