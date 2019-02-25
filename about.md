@@ -18,4 +18,3 @@ Outside of technical work, Veronica writes poetry, plays piano, and volunteers. 
 Excited to further apply her technical skills to reach her goal to help humanity, Veronica decided to challenge herself in pursuing an MS in Robotics at Northwestern University. She is particularly interested in the field of social robotics and hopes to one day develop robot assistants and companions for those in most need.
 
 
-* Machine learning with regards to robot decision-making
