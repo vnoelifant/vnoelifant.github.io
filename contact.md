@@ -2,14 +2,11 @@
 layout: contact
 path: /contact
 url: index.html
-image: http://unsplash.it/400?random
+image: /public/images/ronnie.jpg
 ---
 
-## Quick Spiel
-Lorem ipsum dolor sit amet, tota primis copiosae id quo. Melius eligendi elaboraret pri et, eam menandri platonem te. Tollit iudicabit gloriatur per ad. Ad diceret recteque eum, eu commodo petentium qui. No aliquid delectus eam, dicta eripuit convenire te nec. Vix no veritus dignissim. Erat ferri veniam ut eos, pro ex eius error intellegat, his te graecis oporteat honestatis.
+## Contact Me
+If you would like to contact me regarding a project, research, or a future opportunity/collaboration, you can reach me via my contact info below.
 
-* Phone: (123) 456-7890
+* Phone: (915) 740-6007
 * Email: veronicamedrano2019@u.northwestern.edu
-* Address: 2145 Sheridan Rd., Evanston, IL, 60201
-
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.

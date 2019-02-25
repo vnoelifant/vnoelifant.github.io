@@ -2,19 +2,20 @@
 layout: about
 path: /about
 url: index.html
-image: http://unsplash.it/400?random
+image: /public/images/ronnie.jpg
 ---
 
-## Overview
-Lorem ipsum dolor sit amet, purto tota in vel, exerci discere apeirian has in. Nec noster iracundia eu, utroque facilis ad has. Alii argumentum no his, omnis iusto scripta vim in, ipsum ridens mel at. Has homero phaedrum no, ea autem affert facilis usu, has possim meliore perpetua id. Errem iisque mea ex, option ocurreret no est. Sea facer ullamcorper ne, cu dictas discere repudiandae sea.
+## Veronica Medrano
 
-His nemore audiam consequat ad, no augue choro assueverit mei. Zril offendit tincidunt ne quo. At commodo integre alienum sea, cu vocent fuisset suscipit nam. Eum ex tation omnesque adversarium, mutat autem putant te nam. Id vix facilis complectitur, vis vitae vivendo euripidis ea, fugit eirmod an vix.
+Veronica earned her bachelor's degree in Electrical Engineering at Texas A&M University. While there, she worked at a Co-op for L-3 Communications and designed lighting systems for Special Mission aircraft. She also participated in Nanotechnology research and studied the growth and characterization of synthetic diamond at Howard University. In her last year of college, she traveled to Iceland and conducted experiential hands-on visitations to renewable energy facilities with peers across the world.
 
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
+Following graduation, Veronica worked as a Satellite Systems Engineer for Boeing Satellite Systems in El Segundo, CA. Projects included executing software-driven tests to verify satellite health on the ground and in orbit, and traveling to Mexico to test satellite modems for the Mexican military. She became interested in the functionality of software in test campaigns, especially while executing spacecraft commands, and was inspired to learn more. She then taught herself Python and applied her knowledge toward building a robot using Python and a Raspberry Pi.
 
-Mel magna discere in. Mea ea dicit homero perfecto. Eam nulla facete scribentur in. Vide volutpat laboramus est cu, usu cu impetus dignissim. Ex pro decore impetus. Ius nihil iisque deterruisset an, ex sanctus verterem his. Doming prompta insolens est ut.
+Enthusiastic to apply her gained skills in the industry, she traveled to New Jersey and worked as a GPS Navigation Software Test Engineer for Harris Corporation. Here she wrote test data generation scripts to verify GPS Navigation Display software, developed test procedure automation scripts, and led back-end and front-end developers in troubleshooting software test issues. 
 
-### Research interests
-* Interest 1
-* Interest 2
-* Interest 3
+Outside of technical work, Veronica writes poetry, plays piano, and volunteers. She has spent time as a Big Sister, reading to children, tutoring homeless children, feeding the homeless, and motivating children at the Special Olympics. 
+
+Excited to further apply her technical skills to reach her goal to help humanity, Veronica decided to challenge herself in pursuing an MS in Robotics at Northwestern University. She is particularly interested in the field of social robotics and hopes to one day develop robot assistants and companions for those in most need.
+
+
+* Machine learning with regards to robot decision-making
