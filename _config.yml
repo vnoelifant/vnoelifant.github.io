@@ -1,8 +1,8 @@
 # Site settings
 title:              Veronica Medrano
-email:              your-email@domain.com
+email:              veronicamedrano2019@u.northwestern.edu
 description:        "Project Portfolio"
-url:                "http://vnoelifant.github.io" 
+url:                "http://vnoelifant.github.io"
 baseurl:            /vnoelifant.github.io
 
 # File structure settings
