@@ -26,7 +26,7 @@ In this project, I developed a Python application to process multimodal physiolo
 
 
 ## Motivation
-My Career goal in Robotics is to improve the lives of people, and a large part of that is figuring out how computers can reliably detect emotion. Many studies have been done on facial emotion recognition, yet more modalities should be explored, considering we, as humans express emotion in various. I believe one of those ways of vast importance is by means of physioligal signals, such as EEG (brain wave signals), ECG, and PPG (heart rate signals). This project explores the initial phase of processing such physiological signals in synchrony into a social signal processing framework called SSI (Social Signal Interpretation). 
+My Career goal in Robotics is to improve the lives of people, and a large part of that is figuring out how computers can reliably detect emotion. Many studies have been done on facial emotion recognition, yet more modalities should be explored, considering we, as humans express emotion in various ways. I believe one of those ways of vast importance is by means of physioligal signals, such as EEG (brain wave signals), ECG, and PPG (heart rate signals). This project explores the initial phase of processing such physiological signals in synchrony into a social signal processing framework called SSI (Social Signal Interpretation). 
 
 
 ## Demo videos:
