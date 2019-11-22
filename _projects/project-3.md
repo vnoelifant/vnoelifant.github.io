@@ -2,7 +2,7 @@
 layout: project
 title: DC Motor Trajectory Follower
 date: May 2019
-image: /public/images/motor.png
+image: /public/images/motor.jpg
 ---
 
 ## Overview
