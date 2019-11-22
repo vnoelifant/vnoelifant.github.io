@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Nao-A Friendly Conversational Robot
+title: Nao-A Robot that Infers your Feelings
 date: Sep 2019
 image: /public/images/nao_ronnie.jpg
 ---
