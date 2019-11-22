@@ -11,7 +11,7 @@ In this project, I aimulated a mecanum-wheeled-robot’s end-effector to grasp, 
 
 ## Demo videos
 
-###Best Test Run:
+### Best Test Run:
 
 Feedforward plus PI with at least 30 degrees of orientation error and
 0.2 m of position error from the first configuration of the reference
@@ -23,7 +23,7 @@ trajectory
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/DXQIR7oyLqs/0.jpg)](http://www.youtube.com/watch?DXQIR7oyLqs "Best case")
 
 
-###Overshoot Test Run:
+### Overshoot Test Run:
 Feedforward plus PI with at least 30 degrees of orientation error and
 0.2 m of position error from the first configuration of the reference
 trajectory
@@ -33,7 +33,7 @@ trajectory
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/SJRg97WYugo/0.jpg)](http://www.youtube.com/watch?v=SJRg97WYugo "Overshoot Case") 
 
-###New Task Test Run
+### New Task Test Run
 
 Feedforward plus PI with at least 30 degrees of orientation error and
 0.2 m of position error from the first configuration of the reference
@@ -44,12 +44,13 @@ trajectory
 
 Initial and Goal Configurations of cube are adjusted, and the new data is shown below:
 
-# initial target configuration
+**Initial target configuration**
 TscInit = np.array([[1,0,0,1],
                     [0,1,0,0.5],
                     [0,0,1,0.025],
                     [0,0,0,1]])
-# goal target configuration
+
+**Goal target configuration**
 TscFin = np.array([[0,1,0,-0.5],
                     [-1,0,0,-1],
                     [0,0,1,.025],
