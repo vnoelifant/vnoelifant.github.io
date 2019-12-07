@@ -26,16 +26,19 @@ In this project, I developed a Python application to process multimodal physiolo
 
 
 ## Motivation
-My Career goal in Robotics is to improve the lives of people, and a large part of that is figuring out how computers can reliably detect emotion. Many studies have been done on facial emotion recognition, yet more modalities should be explored, considering we, as humans express emotion in various ways. I believe one of those ways of vast importance is by means of physioligal signals, such as EEG (brain wave signals), ECG, and PPG (heart rate signals). This project explores the initial phase of processing such physiological signals in synchrony into a social signal processing pipipline (as part of the SSI social signal framework) support future steps in fusing the signals to detect one's emotional state. The fact that the signals are sent real-time has the potential to solve challenges in prior emotion detection algorithms which rely only on past data, and hence, lower reliability. Thus, I have hope for a future whereby robots can be capable of receiving these multimodal real-time signals and have the potential to save lives.
+My Career goal in Robotics is to improve the lives of people, and a large part of that is figuring out how computers can reliably detect emotion. Many studies have been done on facial emotion recognition, yet more modalities should be explored, considering we, as humans express emotion in various ways. I believe one of those ways of vast importance is by means of physioligal signals, such as EEG (brain wave signals), ECG, and PPG (heart rate signals), in addition to combining these modalities with audiovisual cues. This project explores the initial phase of processing such physiological signals, in addition to audiovisual recording, real-time into a social signal processing pipipline (as part of the SSI social signal framework) support future steps in fusing the signals to eventually detect one's emotional state real-time. The fact that the signals are sent real-time has the potential to solve challenges in prior emotion detection algorithms which rely only on past data, and hence, lower reliability. Thus, I have hope for a future whereby robots can be capable of receiving these multimodal real-time signals and have the potential to save lives.
 
 
-## Demo videos!:
+## Demo videos:
+EEG with PPG, GSR AND AUDIOVISUAL:
+           
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/DqONgXAobW8/0.jpg)](http://www.youtube.com/watch?v=DqONgXAobW8 "EEG,ECG,GSR Signals on SSI")
 
 EEG with PPG, GSR:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/vY3h6-k4f7I/0.jpg)](http://www.youtube.com/watch?v=vY3h6-k4f7I "EEG,PPG,GSR Signals on SSI")
 
 EEG with ECG, GSR:
            
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/tBMmrahfTf8/0.jpg)](http://www.youtube.com/watch?v=tBMmrahfTf8 "EEG,ECG,GSR Signals on SSI") 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/tBMmrahfTf8/0.jpg)](http://www.youtube.com/watch?v=tBMmrahfTf8 "EEG,PPG,GSR, VIDEO Signals on SSI") 
 
  [View project details on github here.](https://github.com/vnoelifant/Custom_SSI_Sensors/tree/master/heart_skin_brain)
