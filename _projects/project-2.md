@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Multimodal Physiological Sensor Processing
+title: Real-Time Multimodal Sensor Processing
 date: May 2019
 image: /public/images/ssi.jpeg
 ---
