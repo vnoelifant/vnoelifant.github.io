@@ -2,11 +2,11 @@
 layout: project
 title: Nao and Cozmo-Friendly Robots that Infer your Feelings
 date: Sep 2019
-image: /public/images/nao_cozmo_ronnie.jpg
+image: /public/images/nao_cozmo_ronnie.JPG
 ---
 
 **NOTE** 
-Please note full project completion of the Nao project below. This was the final project for the Northwestern MSR Program. Following graduation of the MSR Program September 2019, the project was continued to incorporate code enhancements, and the Anki Cozmo Robot was used to replace Nao, since the Nao robot cannot be rented in the USA. Please refer to the "Cozmo" folder [here](https://github.com/vnoelifant/msr-final-nao/tree/master/cozmo) for up-to date code and enhancements on the Cozmo robot. The Cozmo Robot does not have a microphone, so a recording application was written to utilize PyAudio as the recorder for speech. As a note, the PyAudio recording is shown to be much more accurate than the recorder used from the Nao Robot. Videos and separate README for the Cozmo Robot are coming soon. 
+  * Please note full project completion of the Nao project below. This was the final project for the Northwestern MSR Program. Following graduation of the MSR Program September 2019, the project was continued to incorporate code enhancements, and the Anki Cozmo Robot was used to replace Nao, since the Nao robot cannot be rented in the USA. Please refer to the "Cozmo" folder [here](https://github.com/vnoelifant/msr-final-nao/tree/master/cozmo) for up-to date code and enhancements on the Cozmo robot. The Cozmo Robot does not have a microphone, so a recording application was written to utilize PyAudio as the recorder for speech. As a note, the PyAudio recording is shown to be much more accurate than the recorder used from the Nao Robot. Videos and separate README for the Cozmo Robot are coming soon. 
 
 ## Overview
 
