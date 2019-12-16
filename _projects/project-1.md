@@ -2,7 +2,7 @@
 layout: project
 title: Nao and Cozmo-Friendly Robots that Infer your Feelings
 date: Sep 2019
-image: /public/images/nao_ronnie_cozmo.jpg
+image: /public/images/nao_cozmo_ronnie.jpg
 ---
 
 ## Overview
