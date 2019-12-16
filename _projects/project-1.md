@@ -1,11 +1,12 @@
 ---
 layout: project
-title: Nao-A Robot that Infers your Feelings
+title: Nao and Cozmo-Friendly Robots that Infer your Feelings
 date: Sep 2019
-image: /public/images/nao_ronnie.jpg
+image: /public/images/nao_ronnie_cozmo.jpg
 ---
 
 ## Overview
+
 The goal of this project is to be able to have Nao detect your feelings without having to ask. 
 In order to accomplish this goal, the following steps are performed:
   
@@ -51,6 +52,14 @@ My Career goal is to improve the lives of people using Social Robotics. I believ
  [View project details including hardware/software requirements, flow designs, entity/intent lists on github here.](https://github.com/vnoelifant/msr-final-nao)
 
 ### Find weekly status notes for my project in this [PROGRESS](https://github.com/vnoelifant/msr-final-nao/blob/master/PROGRESS.md) section.
+
+## UPDATES
+
+**NOTE** Following graduation of the MSR Program September 2019, the Cozmo Robot was used to replace Nao, as the Nao robot cannot be rented in the USA. Please refer to the "Cozmo" folder [here](https://github.com/vnoelifant/msr-final-nao/tree/master/cozmo) for up-to date code and enhancements on the Cozmo robot. The Cozmo Robot does not have a microphone, so a recording application was written to utilize PyAudio as the recorder for speech. As a note, the PyAudio recording is shown to be much more accurate than the recorder used from the Nao Robot. 
+
+## COZMO DEMO VIDEOS
+
+Coming Soon
 
 
 
