@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Real-Time Multimodal Sensor Processing
+title: Real-Time Multimodal Signal Processing
 date: May 2019
 image: /public/images/ssi.jpeg
 ---
 
 ## Overview
-In this project, I developed a Python application to process multimodal physiological sensors into [SSI](https://github.com/hcmlab/ssi) (Social Signal Interpretation) pipeline. Sensors include the following:
+In this project, I developed a Python application to process multimodal signals (physiological with audiovisual) into [SSI](https://github.com/hcmlab/ssi) (Social Signal Interpretation) pipeline. Sensors include the following:
 
   * **GSR (Galvanic Skin Response)**
     * Refers to changes in sweat gland activity that are reflective of the intensity of our emotional state, otherwise known as emotional arousal.
