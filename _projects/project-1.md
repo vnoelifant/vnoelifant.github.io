@@ -7,7 +7,7 @@ image: /public/images/nao_cozmo_ronnie.JPG
 
 **NOTE** 
 
-  * Please note full project completion of the Nao project below. This was the final project for the Northwestern MSR Program. Following graduation of the MSR Program September 2019, the project was continued to incorporate code enhancements, and the Anki Cozmo Robot was used to replace Nao, since the Nao robot cannot be rented in the USA. Please refer to the "Cozmo" folder [here](https://github.com/vnoelifant/msr-final-nao/tree/master/cozmo) for up-to date code and enhancements on the Cozmo robot. The Cozmo Robot does not have a microphone, so a recording application was written to utilize PyAudio as the recorder for speech. As a note, the PyAudio recording is shown to be much more accurate than the recorder used from the Nao Robot. The Cozmo code also includes facial recognition capabilities. Videos and separate README for the Cozmo Robot are coming soon. 
+  * Please note final project completion demo videos below (under "FINAL DEMO VIDEOS"). This was the final project for the Northwestern MSR Program and utilizes the Nao Robot. Following graduation of the MSR Program September 2019, the project was continued to incorporate code enhancements, and the Anki Cozmo Robot was used to replace Nao, since the Nao robot cannot be rented in the USA. Please refer to the "Cozmo" folder [here](https://github.com/vnoelifant/msr-final-nao/tree/master/cozmo) for up-to date code and enhancements on the Cozmo robot. The Cozmo Robot does not have a microphone, so a recording application was written to utilize PyAudio as the recorder for speech. As a note, the PyAudio recording is shown to be much more accurate than the recorder used from the Nao Robot. The Cozmo code also includes facial recognition capabilities. See demo video below the Nao videos. Additional videos and separate README for updated work on the Cozmo Robot are coming soon. 
 
 ## Overview
 
@@ -59,7 +59,11 @@ My Career goal is to improve the lives of people using Social Robotics. I believ
 
 ## COZMO DEMO VIDEOS
 
-Coming Soon
+### Case: Intent: Work (negative tone), transition to positive (happy) tone.
+  * **Includes:** Facial expression recognition (via Cozmo camera), and a smiley face displayed on Cozmo's OLED face after transition from tone of anger to tone of happy. 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/6msKXdSxIA0/0.jpg)](http://www.youtube.com/watch?v=6msKXdSxIA0 "Cozmo Detects happy face")
+
+
 
 
 
