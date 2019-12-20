@@ -1,16 +1,21 @@
 ---
 layout: project
-title: Nao-A Robot that Infers your Feelings
+title: Nao and Cozmo-Friendly Robots that Infer your Feelings
 date: Sep 2019
-image: /public/images/nao_ronnie.jpg
+image: /public/images/nao_cozmo_ronnie.JPG
 ---
 
+**NOTE** 
+
+  * Please note full project completion of the Nao project below. This was the final project for the Northwestern MSR Program. Following graduation of the MSR Program September 2019, the project was continued to incorporate code enhancements, and the Anki Cozmo Robot was used to replace Nao, since the Nao robot cannot be rented in the USA. Please refer to the "Cozmo" folder [here](https://github.com/vnoelifant/msr-final-nao/tree/master/cozmo) for up-to date code and enhancements on the Cozmo robot. The Cozmo Robot does not have a microphone, so a recording application was written to utilize PyAudio as the recorder for speech. As a note, the PyAudio recording is shown to be much more accurate than the recorder used from the Nao Robot. The Cozmo code also includes facial recognition capabilities. Videos and separate README for the Cozmo Robot are coming soon. 
+
 ## Overview
+
 The goal of this project is to be able to have Nao detect your feelings without having to ask. 
 In order to accomplish this goal, the following steps are performed:
   
   * Utilize the microphone on Nao to extract audio data which contains the "speech" of the user
-  * Transfer the .wav file to Watson Speech to Text to 
+  * Transfer the .wav file to Watson Speech to Text service to extract the text for intent recognition
   * Send the text to Watson Assistant to analyze the user's speech utterance for intents and entities based on dialogue subject of daily activities.The intents used are work, friends, and reading. 
   * Nao responds to user according to detected intent, entity, or tone and begins brief dialogue sessions with different users based on a varying order of intents. Note that Watson Assistant dialogue GUI is not used, and rather coded manually. 
   * Special effects added include Nao changing eye color based on either/both tone and transition to new user dialogue session. 
@@ -51,6 +56,10 @@ My Career goal is to improve the lives of people using Social Robotics. I believ
  [View project details including hardware/software requirements, flow designs, entity/intent lists on github here.](https://github.com/vnoelifant/msr-final-nao)
 
 ### Find weekly status notes for my project in this [PROGRESS](https://github.com/vnoelifant/msr-final-nao/blob/master/PROGRESS.md) section.
+
+## COZMO DEMO VIDEOS
+
+Coming Soon
 
 
 
