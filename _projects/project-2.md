@@ -22,6 +22,7 @@ In this project, I developed a Python application to process multimodal signals 
   * **EEG with PPG, GSR**
   * **EEG with ECG, GSR**
   * **EEG with PPG, GSR**
+  * **EEG with PPG, GSR, and Audio-visual**
 
 
 
