@@ -3,7 +3,7 @@ title:              Veronica Medrano
 email:              veronicamedrano2019@u.northwestern.edu
 description:        "Project Portfolio"
 url:                "http://vnoelifant.github.io"
-baseurl:            ""
+baseurl:            /vnoelifant.github.io
 
 # File structure settings
 image_path:         /public/images
