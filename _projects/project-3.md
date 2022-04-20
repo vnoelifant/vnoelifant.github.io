@@ -12,7 +12,7 @@ In this project, I implemented a motion controller using PID Control to enable a
 ## Demo videos:
 
 Motor Position Control
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/IcCapVDjeBI/0.jpg)](http://www.youtube.com/watch?IcCapVDjeBI "Motor Position Control")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/IcCapVDjeBI/0.jpg)](http://www.youtube.com/watch?v=IcCapVDjeBI "Motor Position Control")
 
 Motor Current Control:
            
