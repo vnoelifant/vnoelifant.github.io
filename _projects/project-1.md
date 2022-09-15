@@ -55,7 +55,7 @@ My Career goal is to improve the lives of people using Social Robotics. I believ
 
  [View project details including hardware/software requirements, flow designs, entity/intent lists on github here.](https://github.com/vnoelifant/msr-final-nao)
 
-### Find weekly status notes for my project in this [PROGRESS](https://github.com/vnoelifant/msr-final-nao/blob/master/PROGRESS.md) section.
+### Find weekly status notes for my project in this [PROGRESS](https://github.com/vnoelifant/msr-final-nao/blob/master/PROGRESS.MD) section.
 
 ## COZMO DEMO VIDEOS
 
