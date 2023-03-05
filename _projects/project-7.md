@@ -1,16 +1,26 @@
 ---
 layout: project
-title: Tracking Objects Using ROS and Python
-date: Sep 2018
-image: /public/images/balltracker.jpeg
+title: DC Motor Trajectory Follower
+date: May 2019
+image: /public/images/motor.jpg
 ---
 
 ## Overview
+In this project, I implemented a motion controller using PID Control to enable a DC motor to track reference trajectories; used C, MATLAB, and PIC32 microcontroller. 
 
-This is the last project from  Northwestern MSR (Masters in Science in Robotics) Hackathon experience. This project introduced hands-on experience with ROS, a robotics middleware which provides libraries and tools to help software developers create robot applications. 
 
-In this project, Python and OpenCV were integrated with ROS to program a servo-controlled pan-tilt camera system that can track target objects. A blue ball is detected from the system as shown in the video below:
+## Demo videos:
 
-[link to video on YouTube.](https://www.youtube.com/watch?v=M0TucFrqqSo)
+Motor Position Control
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/IcCapVDjeBI/0.jpg)](http://www.youtube.com/watch?v=IcCapVDjeBI "Motor Position Control")
 
-[View the project on github here.](https://github.com/vnoelifant/ball_tracker_project)
+Motor Current Control:
+           
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/8xGY5KHAKBs/0.jpg)](http://www.youtube.com/watch?v=8xGY5KHAKBs "Motor Current Control") 
+
+Motor Position Control-2:
+           
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/p3Trt9g9HSE/0.jpg)](http://www.youtube.com/watch?v=p3Trt9g9HSE "Motor Position Control-2") 
+
+**Note**
+Github code not available publicaly due to academic purposes. However, I can speak at length with those who have interests about the technical aspects of the code written for this project. 
