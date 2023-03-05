@@ -2,7 +2,7 @@
 layout: project
 title: Philanthropic Finders
 date: March 2023
-image: /public/images/charity3.png
+image: /public/images/charity3.jpg
 ---
 
 ## Overview
